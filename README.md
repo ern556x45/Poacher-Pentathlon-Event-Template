@@ -11,15 +11,19 @@ Basic definitions, templates, helping tools.
 ## Useful tools to make events
 
 squadcalc.com - maps and easy management of your vision, where should objectives, spawns and other stuff be.
+
 photopea.com - online Photoshop, free to use, neat when making designs or getting pictures for your design document
-excalidraw.com - useful for mapping out win codintions or team structures
+
+excalidraw.com - useful for mapping out win codintions or team structures.
+
 docs.google.com - self explanatory innit?
+
 github.com - use this to pull, update and manage the templates repository.
 
 ## How to use this stuff?
 
 First, you either download the repository or clone it via git cli
-![instructions](/home/ern/44th scripts/Event-Template/images/instructions.png)
+![instructions](/images/instructions.png)
 
 If you've downloaded the .zip file, extract it somewhere safe and keep it until the event ends, this does not automatically back up your files!!!
 
